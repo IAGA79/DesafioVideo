@@ -4,7 +4,7 @@ const musicaPlayer = new Reproductor(
   "musica"
 );
 const peliculasPlayer = new Reproductor(
-  "https://www.youtube.com/embed/RZtG8wEWcRo",
+  "https://www.youtube.com/embed/pFoKb6rwp2s",
   "peliculas"
 );
 const seriesPlayer = new Reproductor(
